@@ -13,7 +13,9 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">
+          At Grand Hotel, we pride ourselves on offering an extraordinary blend of comfort, elegance, and personalized service.
+        </p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -24,7 +26,10 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">
+
+          Over the years, we have continuously evolved to meet the changing needs of our guests while maintaining the timeless charm and elegance that have been the hallmark of our brand
+        </p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>

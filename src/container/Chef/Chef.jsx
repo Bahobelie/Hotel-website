@@ -17,9 +17,15 @@ const Chef = () => (
     <div className='app__chef-content'>
       <div className='app__chef-content_quote'>
         <img src={images.quote} alt='quote'/>
-        <p className='p__opensans'>auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.</p>
+        <p className='p__opensans'> At Grand Hotel Name,
+            we believe in the art of sophisticated elegance and timeless hospitality.
+        </p>
       </div>
-      <p className='p__opensans'>Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc.</p>
+      <p className='p__opensans'>
+          Our dedication to impeccable service ensures that every detail,
+          from the grandest gesture to the smallest nuance, is thoughtfully crafted to provide an unparalleled experience.
+          We are committed to excellence, ensuring that each guest feels cherished and valued throughout their stay.
+      </p>
     </div>
 
     <div className='app__chef-sign'>
