@@ -1,12 +1,16 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
 
 import { meal } from '../../constants';
 import './Intro.css';
 
 const Intro = () => {
-  const [playVideo, setPlayVideo] = React.useState(false);
+  const [playVideo, setPlayVideo] = React.useState(true);
   const vidRef = React.useRef();
+
+  useEffect(()=>{
+      vidRef.current.play();
+  },[]);
 
   return (
     <div className="app__video">

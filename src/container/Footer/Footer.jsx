@@ -14,7 +14,7 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans"> Kazanchis, Addis Ababa, Ethiopia</p>
-        <p className="p__opensans">+251 99 177 0647</p>
+        <p className="p__opensans">+251-99-177-0647</p>
       </div>
 
       <div className="app__footer-links_logo">

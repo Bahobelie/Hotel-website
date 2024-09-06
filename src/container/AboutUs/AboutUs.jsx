@@ -28,7 +28,7 @@ const AboutUs = () => (
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
 
-          Over the years, we have continuously evolved to meet the changing needs of our guests while maintaining the timeless charm and elegance that have been the hallmark of our brand
+          Over the years, we have continuously evolved to meet the changing needs of our guests while maintaining the timeless charm and elegance that have been the hallmark of our brand.
         </p>
         <button type="button" className="custom__button">Know More</button>
       </div>
