@@ -2,7 +2,7 @@
 
 ![Hotel Website Preview](https://hotel-website1.vercel.app/screenshot.png) <!-- Add screenshot of the website here -->
 
-Live Preview: [Hotel Website](https://hotel-website1.vercel.app/)
+Live Preview: https://hotel-website1.vercel.app
 
 
 ## About the Project
